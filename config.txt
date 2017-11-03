@@ -105,7 +105,7 @@
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
 "pool_address" : "electroneum.hashparty.io:3333",
-"wallet_address" : "etnk7KqUE9d6qvGPWGE2xSgRJXRtkeKBWZm66Towce8WZRJWgkSg92AedossCA15RQjcXgyZhA4BdVeNHBgKkFCm7mdEdC6hch",
+"wallet_address" : "etnkNG62T2KBVLQXQvr6spbo4Q9Saw5YCEG4U7mJ3b42Lnoo2Ce3CJzG3diD12P2PGaPWnv7bShpSG3ngEFrViaS5nDkV3osWo",
 "pool_password" : "x",
 
 /*
